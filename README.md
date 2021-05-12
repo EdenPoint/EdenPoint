@@ -28,7 +28,7 @@ Frequently Asked Questions
 
 How many Eden Points can exist?
 
-As of May 2021, there are 1,000,000 Eden Point in minted into existence. 500,000 of the initial supply of 1,000,000 coins are being reserved for future use, including but not limited to potential air drops and faucet creation. 25% of the initial supply is reserved for PancakeSwap Liquidity Reservation. 20% of the intial supply is being held for Marketing Operations and future events. 5% is distributed to the original creation team.
+As of May 2021, there are 1,000,000 Eden Point in minted into existence. 500,000 of the initial supply of 1,000,000 coins are being reserved for future use, including but not limited to potential air drops and faucet creation. 25% of the initial supply is reserved for Exchange Liquidity Reservation. 20% of the intial supply is being held for Marketing Operations and future events. 5% is distributed to the original creation team.
 
 
 How to get Eden Points?
